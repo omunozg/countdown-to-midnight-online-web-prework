@@ -3,5 +3,5 @@
 def countdown(cucu)
   while cucu >= 0 
   cucu -= 1 
-  puts ("#{cucu}")
+  puts ("#{cucu} SECOND(S)!")
 end

@@ -2,5 +2,6 @@
 
 def countdown(cucu)
   while cucu >= 0 
+  cucu -= 1 
   puts ("#{cucu}")
 end

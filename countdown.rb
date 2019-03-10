@@ -5,4 +5,5 @@ def countdown(cucu)
   cucu -= 1 
   puts ("#{cucu} SECOND(S)!")
 end
+return "HAPPY NEW YEAR!"
 end
